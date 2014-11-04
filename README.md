@@ -15,10 +15,9 @@ to 9 while observing the following constraints:
 I decided to attempt solving the problem using the BackTracking algorithm as it
 seemed like a very simple approach.
 
-My work in past had primarily been on SQL databases and I am not well versed
-with any of the languages listed in the Sudoku coding challenge. I learnt that
-Python was perhaps my best bet because while it is relatively easy to get up
-speed with, it offers all the benefits of very good data structures.
+My work in the past has primarily been on SQL databases and I am not well versed
+with any of the languages listed in the Sudoku coding challenge. I chose Python
+because it is easy to learn and it has good data structures.
 
 After attempting to solve the puzzle using the BackTracking algorithm, I
 realized that while it was a simple approach, it was not a very efficient one.
